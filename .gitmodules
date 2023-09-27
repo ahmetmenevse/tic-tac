@@ -1,4 +1,5 @@
 [submodule "submodule_name"]
     path = path/to/submodule
-    url = https://github.com/ahmetmenevse/tic-tac-toe
+    url = https://github.com/ahmetmenevse/tic-tac-toe.git
+
 
